@@ -4398,6 +4398,10 @@
       "title": "Documentation",
       "items": [
         {
+          "title": "Admin Analytics",
+          "path": "/doc/docs/admin-analytics"
+        },
+        {
           "title": "Cross Cutting",
           "path": "/doc/docs/cross-cutting",
           "children": [

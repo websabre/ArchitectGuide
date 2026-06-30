@@ -1,6 +1,10 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "installCommand": "cd site && npm ci",
+  "installCommand": "npm ci && cd site && npm ci",
   "buildCommand": "cd site && npm run build",
-  "outputDirectory": "site/dist"
+  "outputDirectory": "site/dist",
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api/$1" },
+    { "source": "/((?!api/).*)", "destination": "/index.html" }
+  ]
 }

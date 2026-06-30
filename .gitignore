@@ -3,5 +3,8 @@ site/dist/
 site/public/content/
 site/.vercel/
 .vercel/
+.env
+.env.local
+.env*.local
 .vercel
 .env*
