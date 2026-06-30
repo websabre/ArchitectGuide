@@ -1,0 +1,6 @@
+# Vercel uploads the full repo; site/ is the build root (see ../vercel.json).
+# Do not deploy from site/ alone — curriculum lives in ../weeks, ../docs, etc.
+
+site/node_modules
+site/dist
+site/public/content

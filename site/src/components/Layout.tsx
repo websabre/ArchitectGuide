@@ -1,17 +1,20 @@
-import { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback, useMemo } from 'react'
 import { Outlet, useLocation } from 'react-router-dom'
 import { Sidebar } from './Sidebar'
 import { Header } from './Header'
 import { SearchDialog } from './SearchDialog'
+import { WeekSubnav } from './WeekSubnav'
 import navigationData from '../data/navigation.json'
 import type { NavigationData } from '../lib/content'
 import { titleFromPath } from '../lib/content'
+import { categorizeNavigation } from '../lib/nav-helpers'
 
 export function Layout() {
   const [mobileOpen, setMobileOpen] = useState(false)
   const [searchOpen, setSearchOpen] = useState(false)
   const location = useLocation()
   const nav = navigationData as NavigationData
+  const { months } = useMemo(() => categorizeNavigation(nav.sections), [nav.sections])
 
   const pageTitle =
     location.pathname === '/'
@@ -37,7 +40,12 @@ export function Layout() {
 
   return (
     <div className="flex min-h-screen">
-      <Sidebar sections={nav.sections} mobileOpen={mobileOpen} onClose={() => setMobileOpen(false)} />
+      <Sidebar
+        sections={nav.sections}
+        mobileOpen={mobileOpen}
+        onClose={() => setMobileOpen(false)}
+        onSearchClick={() => setSearchOpen(true)}
+      />
 
       <div className="flex min-w-0 flex-1 flex-col">
         <Header
@@ -45,6 +53,8 @@ export function Layout() {
           onMenuClick={() => setMobileOpen(true)}
           onSearchClick={() => setSearchOpen(true)}
         />
+
+        <WeekSubnav months={months} />
 
         <main className="flex-1">
           <div className="mx-auto max-w-4xl px-4 py-8 lg:px-10 lg:py-12">

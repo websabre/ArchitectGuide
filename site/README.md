@@ -38,13 +38,19 @@ Live URL after first successful deploy: `https://<user>.github.io/<repo>/`
 
 Site uses **HashRouter** — no server rewrite rules needed.
 
-### Netlify / Vercel / Azure Static Web Apps
+### Vercel (CLI)
 
-- **Build command:** `cd site && npm install && npm run build`
-- **Publish directory:** `site/dist`
-- No special redirects needed (hash-based routing)
+**Important:** Run `vercel` from the **repo root** (`ArchitectGuide/`), not from `site/`.
 
-### Azure Static Web Apps (example)
+```bash
+cd /path/to/ArchitectGuide
+vercel link
+vercel --prod
+```
+
+`vercel.json` at repo root runs `cd site && npm run build` and publishes `site/dist/`.
+
+### Netlify / Azure Static Web Apps
 
 ```yaml
 app_location: site

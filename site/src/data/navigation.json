@@ -26,10 +26,10 @@
       ]
     },
     {
-      "title": "Month 1 \u2014 .NET Foundation",
+      "title": "Month 1 — .NET Foundation",
       "items": [
         {
-          "title": "Week 01 \u2014 C# Language Mastery",
+          "title": "Week 01 — C# Language Mastery",
           "path": "/doc/weeks/week-01",
           "children": [
             {
@@ -121,7 +121,7 @@
           ]
         },
         {
-          "title": "Week 02 \u2014 .NET Runtime & Ecosystem",
+          "title": "Week 02 — .NET Runtime & Ecosystem",
           "path": "/doc/weeks/week-02",
           "children": [
             {
@@ -209,7 +209,7 @@
           ]
         },
         {
-          "title": "Week 03 \u2014 SOLID & Clean Architecture",
+          "title": "Week 03 — SOLID & Clean Architecture",
           "path": "/doc/weeks/week-03",
           "children": [
             {
@@ -297,7 +297,7 @@
           ]
         },
         {
-          "title": "Week 04 \u2014 Design Patterns",
+          "title": "Week 04 — Design Patterns",
           "path": "/doc/weeks/week-04",
           "children": [
             {
@@ -381,10 +381,10 @@
       ]
     },
     {
-      "title": "Month 2 \u2014 Data & Algorithms",
+      "title": "Month 2 — Data & Algorithms",
       "items": [
         {
-          "title": "Week 05 \u2014 Data Structures",
+          "title": "Week 05 — Data Structures",
           "path": "/doc/weeks/week-05",
           "children": [
             {
@@ -472,7 +472,7 @@
           ]
         },
         {
-          "title": "Week 06 \u2014 Algorithms & Complexity",
+          "title": "Week 06 — Algorithms & Complexity",
           "path": "/doc/weeks/week-06",
           "children": [
             {
@@ -556,7 +556,7 @@
           ]
         },
         {
-          "title": "Week 07 \u2014 SQL Server",
+          "title": "Week 07 — SQL Server",
           "path": "/doc/weeks/week-07",
           "children": [
             {
@@ -640,7 +640,7 @@
           ]
         },
         {
-          "title": "Week 08 \u2014 PostgreSQL",
+          "title": "Week 08 — PostgreSQL",
           "path": "/doc/weeks/week-08",
           "children": [
             {
@@ -722,10 +722,10 @@
       ]
     },
     {
-      "title": "Month 3 \u2014 Azure Core",
+      "title": "Month 3 — Azure Core",
       "items": [
         {
-          "title": "Week 09 \u2014 Azure Fundamentals",
+          "title": "Week 09 — Azure Fundamentals",
           "path": "/doc/weeks/week-09",
           "children": [
             {
@@ -813,7 +813,7 @@
           ]
         },
         {
-          "title": "Week 10 \u2014 Azure Compute",
+          "title": "Week 10 — Azure Compute",
           "path": "/doc/weeks/week-10",
           "children": [
             {
@@ -901,7 +901,7 @@
           ]
         },
         {
-          "title": "Week 11 \u2014 Azure Data Platform",
+          "title": "Week 11 — Azure Data Platform",
           "path": "/doc/weeks/week-11",
           "children": [
             {
@@ -989,7 +989,7 @@
           ]
         },
         {
-          "title": "Week 12 \u2014 Azure Identity",
+          "title": "Week 12 — Azure Identity",
           "path": "/doc/weeks/week-12",
           "children": [
             {
@@ -1079,10 +1079,10 @@
       ]
     },
     {
-      "title": "Month 4 \u2014 Azure Deep Dive",
+      "title": "Month 4 — Azure Deep Dive",
       "items": [
         {
-          "title": "Week 13 \u2014 Azure Networking",
+          "title": "Week 13 — Azure Networking",
           "path": "/doc/weeks/week-13",
           "children": [
             {
@@ -1170,7 +1170,7 @@
           ]
         },
         {
-          "title": "Week 14 \u2014 Azure Security",
+          "title": "Week 14 — Azure Security",
           "path": "/doc/weeks/week-14",
           "children": [
             {
@@ -1258,7 +1258,7 @@
           ]
         },
         {
-          "title": "Week 15 \u2014 Azure Integration",
+          "title": "Week 15 — Azure Integration",
           "path": "/doc/weeks/week-15",
           "children": [
             {
@@ -1346,7 +1346,7 @@
           ]
         },
         {
-          "title": "Week 16 \u2014 Azure Capstone",
+          "title": "Week 16 — Azure Capstone",
           "path": "/doc/weeks/week-16",
           "children": [
             {
@@ -1436,10 +1436,10 @@
       ]
     },
     {
-      "title": "Month 5 \u2014 AWS & Multi-Cloud",
+      "title": "Month 5 — AWS & Multi-Cloud",
       "items": [
         {
-          "title": "Week 17 \u2014 AWS Fundamentals",
+          "title": "Week 17 — AWS Fundamentals",
           "path": "/doc/weeks/week-17",
           "children": [
             {
@@ -1531,7 +1531,7 @@
           ]
         },
         {
-          "title": "Week 18 \u2014 AWS Compute",
+          "title": "Week 18 — AWS Compute",
           "path": "/doc/weeks/week-18",
           "children": [
             {
@@ -1619,7 +1619,7 @@
           ]
         },
         {
-          "title": "Week 19 \u2014 AWS Data & VPC",
+          "title": "Week 19 — AWS Data & VPC",
           "path": "/doc/weeks/week-19",
           "children": [
             {
@@ -1707,7 +1707,7 @@
           ]
         },
         {
-          "title": "Week 20 \u2014 Multi-Cloud",
+          "title": "Week 20 — Multi-Cloud",
           "path": "/doc/weeks/week-20",
           "children": [
             {
@@ -1801,10 +1801,10 @@
       ]
     },
     {
-      "title": "Month 6 \u2014 Distributed Systems",
+      "title": "Month 6 — Distributed Systems",
       "items": [
         {
-          "title": "Week 21 \u2014 Distributed Systems",
+          "title": "Week 21 — Distributed Systems",
           "path": "/doc/weeks/week-21",
           "children": [
             {
@@ -1892,7 +1892,7 @@
           ]
         },
         {
-          "title": "Week 22 \u2014 Microservices",
+          "title": "Week 22 — Microservices",
           "path": "/doc/weeks/week-22",
           "children": [
             {
@@ -1976,7 +1976,7 @@
           ]
         },
         {
-          "title": "Week 23 \u2014 Domain-Driven Design",
+          "title": "Week 23 — Domain-Driven Design",
           "path": "/doc/weeks/week-23",
           "children": [
             {
@@ -2054,7 +2054,7 @@
           ]
         },
         {
-          "title": "Week 24 \u2014 Microservices Capstone",
+          "title": "Week 24 — Microservices Capstone",
           "path": "/doc/weeks/week-24",
           "children": [
             {
@@ -2130,10 +2130,10 @@
       ]
     },
     {
-      "title": "Month 7 \u2014 Containers & K8s",
+      "title": "Month 7 — Containers & K8s",
       "items": [
         {
-          "title": "Week 25 \u2014 Docker & Containers",
+          "title": "Week 25 — Docker & Containers",
           "path": "/doc/weeks/week-25",
           "children": [
             {
@@ -2217,7 +2217,7 @@
           ]
         },
         {
-          "title": "Week 26 \u2014 Kubernetes Fundamentals",
+          "title": "Week 26 — Kubernetes Fundamentals",
           "path": "/doc/weeks/week-26",
           "children": [
             {
@@ -2239,7 +2239,7 @@
               "path": "/doc/weeks/week-26/labs",
               "children": [
                 {
-                  "title": "Lab 26 K8S Deploy",
+                  "title": "Lab 26 K8s Deploy",
                   "path": "/doc/weeks/week-26/labs/lab-26-k8s-deploy"
                 }
               ]
@@ -2297,7 +2297,7 @@
           ]
         },
         {
-          "title": "Week 27 \u2014 Kubernetes Advanced",
+          "title": "Week 27 — Kubernetes Advanced",
           "path": "/doc/weeks/week-27",
           "children": [
             {
@@ -2381,7 +2381,7 @@
           ]
         },
         {
-          "title": "Week 28 \u2014 Linux for Architects",
+          "title": "Week 28 — Linux for Architects",
           "path": "/doc/weeks/week-28",
           "children": [
             {
@@ -2463,10 +2463,10 @@
       ]
     },
     {
-      "title": "Month 8 \u2014 DevOps",
+      "title": "Month 8 — DevOps",
       "items": [
         {
-          "title": "Week 29 \u2014 DevOps Culture",
+          "title": "Week 29 — DevOps Culture",
           "path": "/doc/weeks/week-29",
           "children": [
             {
@@ -2550,7 +2550,7 @@
           ]
         },
         {
-          "title": "Week 30 \u2014 CI/CD Pipelines",
+          "title": "Week 30 — CI/CD Pipelines",
           "path": "/doc/weeks/week-30",
           "children": [
             {
@@ -2634,7 +2634,7 @@
           ]
         },
         {
-          "title": "Week 31 \u2014 Infrastructure as Code",
+          "title": "Week 31 — Infrastructure as Code",
           "path": "/doc/weeks/week-31",
           "children": [
             {
@@ -2718,7 +2718,7 @@
           ]
         },
         {
-          "title": "Week 32 \u2014 Observability",
+          "title": "Week 32 — Observability",
           "path": "/doc/weeks/week-32",
           "children": [
             {
@@ -2808,10 +2808,10 @@
       ]
     },
     {
-      "title": "Month 9 \u2014 System Design",
+      "title": "Month 9 — System Design",
       "items": [
         {
-          "title": "Week 33 \u2014 System Design",
+          "title": "Week 33 — System Design",
           "path": "/doc/weeks/week-33",
           "children": [
             {
@@ -2895,7 +2895,7 @@
           ]
         },
         {
-          "title": "Week 34 \u2014 Scalability & Caching",
+          "title": "Week 34 — Scalability & Caching",
           "path": "/doc/weeks/week-34",
           "children": [
             {
@@ -2975,7 +2975,7 @@
           ]
         },
         {
-          "title": "Week 35 \u2014 Messaging & Events",
+          "title": "Week 35 — Messaging & Events",
           "path": "/doc/weeks/week-35",
           "children": [
             {
@@ -3055,7 +3055,7 @@
           ]
         },
         {
-          "title": "Week 36 \u2014 System Design Capstone",
+          "title": "Week 36 — System Design Capstone",
           "path": "/doc/weeks/week-36",
           "children": [
             {
@@ -3137,10 +3137,10 @@
       ]
     },
     {
-      "title": "Month 10 \u2014 AI Architecture",
+      "title": "Month 10 — AI Architecture",
       "items": [
         {
-          "title": "Week 37 \u2014 AI/ML Architecture",
+          "title": "Week 37 — AI/ML Architecture",
           "path": "/doc/weeks/week-37",
           "children": [
             {
@@ -3224,7 +3224,7 @@
           ]
         },
         {
-          "title": "Week 38 \u2014 RAG & Vector Search",
+          "title": "Week 38 — RAG & Vector Search",
           "path": "/doc/weeks/week-38",
           "children": [
             {
@@ -3308,7 +3308,7 @@
           ]
         },
         {
-          "title": "Week 39 \u2014 LLMOps",
+          "title": "Week 39 — LLMOps",
           "path": "/doc/weeks/week-39",
           "children": [
             {
@@ -3388,7 +3388,7 @@
           ]
         },
         {
-          "title": "Week 40 \u2014 AI Capstone",
+          "title": "Week 40 — AI Capstone",
           "path": "/doc/weeks/week-40",
           "children": [
             {
@@ -3470,10 +3470,10 @@
       ]
     },
     {
-      "title": "Month 11 \u2014 Enterprise",
+      "title": "Month 11 — Enterprise",
       "items": [
         {
-          "title": "Week 41 \u2014 Architecture Reviews",
+          "title": "Week 41 — Architecture Reviews",
           "path": "/doc/weeks/week-41",
           "children": [
             {
@@ -3553,7 +3553,7 @@
           ]
         },
         {
-          "title": "Week 42 \u2014 FinOps & DR",
+          "title": "Week 42 — FinOps & DR",
           "path": "/doc/weeks/week-42",
           "children": [
             {
@@ -3633,7 +3633,7 @@
           ]
         },
         {
-          "title": "Week 43 \u2014 Frontend Architecture",
+          "title": "Week 43 — Frontend Architecture",
           "path": "/doc/weeks/week-43",
           "children": [
             {
@@ -3713,7 +3713,7 @@
           ]
         },
         {
-          "title": "Week 44 \u2014 Enterprise Case Studies",
+          "title": "Week 44 — Enterprise Case Studies",
           "path": "/doc/weeks/week-44",
           "children": [
             {
@@ -3771,19 +3771,19 @@
               "path": "/doc/weeks/week-44/case-studies",
               "children": [
                 {
-                  "title": "Cs44A Healthcare Hipaa",
+                  "title": "Cs44a Healthcare Hipaa",
                   "path": "/doc/weeks/week-44/case-studies/cs44a-healthcare-hipaa"
                 },
                 {
-                  "title": "Cs44B Fintech Payments",
+                  "title": "Cs44b Fintech Payments",
                   "path": "/doc/weeks/week-44/case-studies/cs44b-fintech-payments"
                 },
                 {
-                  "title": "Cs44C Retail Peak",
+                  "title": "Cs44c Retail Peak",
                   "path": "/doc/weeks/week-44/case-studies/cs44c-retail-peak"
                 },
                 {
-                  "title": "Cs44D Saas Multitenant",
+                  "title": "Cs44d Saas Multitenant",
                   "path": "/doc/weeks/week-44/case-studies/cs44d-saas-multitenant"
                 }
               ]
@@ -3807,10 +3807,10 @@
       ]
     },
     {
-      "title": "Month 12 \u2014 Interview & Graduation",
+      "title": "Month 12 — Interview & Graduation",
       "items": [
         {
-          "title": "Week 45 \u2014 Interview Intensive I",
+          "title": "Week 45 — Interview Intensive I",
           "path": "/doc/weeks/week-45",
           "children": [
             {
@@ -3884,7 +3884,7 @@
           ]
         },
         {
-          "title": "Week 46 \u2014 Interview Intensive II",
+          "title": "Week 46 — Interview Intensive II",
           "path": "/doc/weeks/week-46",
           "children": [
             {
@@ -3958,7 +3958,7 @@
           ]
         },
         {
-          "title": "Week 47 \u2014 Interview Intensive III",
+          "title": "Week 47 — Interview Intensive III",
           "path": "/doc/weeks/week-47",
           "children": [
             {
@@ -4032,7 +4032,7 @@
           ]
         },
         {
-          "title": "Week 48 \u2014 Whiteboard Mocks I",
+          "title": "Week 48 — Whiteboard Mocks I",
           "path": "/doc/weeks/week-48",
           "children": [
             {

@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "predev": "python3 ../scripts/prepare_site.py",
+    "predev": "node scripts/prepare-site.mjs",
     "dev": "vite",
-    "prebuild": "python3 ../scripts/prepare_site.py",
+    "prebuild": "node scripts/prepare-site.mjs",
     "build": "tsc -b && vite build",
     "preview": "vite preview"
   },
