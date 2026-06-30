@@ -49,6 +49,16 @@ ArchitectGuide/
 └── assessments/                 ← Cross-program assessments
 ```
 
+### Web UI (browse in browser)
+
+A static React site lives in [`site/`](site/README.md) — typography-tuned reader with sidebar navigation, search, and Mermaid diagrams.
+
+```bash
+cd site && npm install && npm run dev
+```
+
+Build for production: `npm run build` → deploy `site/dist/` to GitHub Pages, Netlify, or Azure Static Web Apps.
+
 ---
 
 ## Recommended Study Order (12 Months)

@@ -1,0 +1,4490 @@
+{
+  "sections": [
+    {
+      "title": "Start",
+      "items": [
+        {
+          "title": "Home",
+          "path": "/"
+        },
+        {
+          "title": "How to Use",
+          "path": "/doc/docs/getting-started/how-to-use-this-guide"
+        },
+        {
+          "title": "Syllabus",
+          "path": "/doc/SYLLABUS"
+        },
+        {
+          "title": "Curriculum Map",
+          "path": "/doc/CURRICULUM-MAP"
+        },
+        {
+          "title": "12-Month Study Plan",
+          "path": "/doc/STUDY-PLAN-12-MONTHS"
+        }
+      ]
+    },
+    {
+      "title": "Month 1 \u2014 .NET Foundation",
+      "items": [
+        {
+          "title": "Week 01 \u2014 C# Language Mastery",
+          "path": "/doc/weeks/week-01",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-01/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-01/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-01/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced Expert",
+                  "path": "/doc/weeks/week-01/theory/03-advanced-expert"
+                },
+                {
+                  "title": "03 Advanced",
+                  "path": "/doc/weeks/week-01/theory/03-advanced"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-01/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-01/labs",
+              "children": [
+                {
+                  "title": "Lab 01 Performance Profiling",
+                  "path": "/doc/weeks/week-01/labs/lab-01-performance-profiling"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-01/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-01/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-01/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-01/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-01/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-01/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-01/case-studies",
+              "children": [
+                {
+                  "title": "Cs01 Order Api Performance",
+                  "path": "/doc/weeks/week-01/case-studies/cs01-order-api-performance"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-01/assessments",
+              "children": [
+                {
+                  "title": "Week 01 Assessment",
+                  "path": "/doc/weeks/week-01/assessments/week-01-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-01/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 02 \u2014 .NET Runtime & Ecosystem",
+          "path": "/doc/weeks/week-02",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-02/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-02/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-02/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced Expert",
+                  "path": "/doc/weeks/week-02/theory/03-advanced-expert"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-02/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-02/labs",
+              "children": [
+                {
+                  "title": "Lab 02 Di Minimal Grpc",
+                  "path": "/doc/weeks/week-02/labs/lab-02-di-minimal-grpc"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-02/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-02/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-02/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-02/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-02/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-02/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-02/case-studies",
+              "children": [
+                {
+                  "title": "Cs02 Api Style Migration",
+                  "path": "/doc/weeks/week-02/case-studies/cs02-api-style-migration"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-02/assessments",
+              "children": [
+                {
+                  "title": "Week 02 Assessment",
+                  "path": "/doc/weeks/week-02/assessments/week-02-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-02/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 03 \u2014 SOLID & Clean Architecture",
+          "path": "/doc/weeks/week-03",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-03/theory",
+              "children": [
+                {
+                  "title": "01 Solid Principles",
+                  "path": "/doc/weeks/week-03/theory/01-solid-principles"
+                },
+                {
+                  "title": "02 Clean Architecture",
+                  "path": "/doc/weeks/week-03/theory/02-clean-architecture"
+                },
+                {
+                  "title": "03 Advanced Expert",
+                  "path": "/doc/weeks/week-03/theory/03-advanced-expert"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-03/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-03/labs",
+              "children": [
+                {
+                  "title": "Lab 03 Clean Architecture",
+                  "path": "/doc/weeks/week-03/labs/lab-03-clean-architecture"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-03/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-03/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-03/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-03/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-03/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-03/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-03/case-studies",
+              "children": [
+                {
+                  "title": "Cs03 Modular Monolith",
+                  "path": "/doc/weeks/week-03/case-studies/cs03-modular-monolith"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-03/assessments",
+              "children": [
+                {
+                  "title": "Week 03 Assessment",
+                  "path": "/doc/weeks/week-03/assessments/week-03-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-03/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 04 \u2014 Design Patterns",
+          "path": "/doc/weeks/week-04",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-04/theory",
+              "children": [
+                {
+                  "title": "01 Design Patterns Fundamentals",
+                  "path": "/doc/weeks/week-04/theory/01-design-patterns-fundamentals"
+                },
+                {
+                  "title": "02 Advanced Patterns",
+                  "path": "/doc/weeks/week-04/theory/02-advanced-patterns"
+                },
+                {
+                  "title": "02 Gof Deep Dive",
+                  "path": "/doc/weeks/week-04/theory/02-gof-deep-dive"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-04/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-04/labs",
+              "children": [
+                {
+                  "title": "Lab 04 Pattern Refactoring",
+                  "path": "/doc/weeks/week-04/labs/lab-04-pattern-refactoring"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-04/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-04/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-04/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-04/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-04/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-04/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-04/case-studies"
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-04/assessments",
+              "children": [
+                {
+                  "title": "Week 04 Assessment",
+                  "path": "/doc/weeks/week-04/assessments/week-04-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-04/common-mistakes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Month 2 \u2014 Data & Algorithms",
+      "items": [
+        {
+          "title": "Week 05 \u2014 Data Structures",
+          "path": "/doc/weeks/week-05",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-05/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-05/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-05/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced Expert",
+                  "path": "/doc/weeks/week-05/theory/03-advanced-expert"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-05/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-05/labs",
+              "children": [
+                {
+                  "title": "Lab 05 Data Structures",
+                  "path": "/doc/weeks/week-05/labs/lab-05-data-structures"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-05/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-05/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-05/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-05/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-05/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-05/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-05/case-studies",
+              "children": [
+                {
+                  "title": "Cs05",
+                  "path": "/doc/weeks/week-05/case-studies/cs05"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-05/assessments",
+              "children": [
+                {
+                  "title": "Week 05 Assessment",
+                  "path": "/doc/weeks/week-05/assessments/week-05-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-05/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 06 \u2014 Algorithms & Complexity",
+          "path": "/doc/weeks/week-06",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-06/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-06/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-06/theory/02-intermediate"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-06/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-06/labs",
+              "children": [
+                {
+                  "title": "Lab 06 Complexity Analysis",
+                  "path": "/doc/weeks/week-06/labs/lab-06-complexity-analysis"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-06/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-06/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-06/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-06/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-06/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-06/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-06/case-studies",
+              "children": [
+                {
+                  "title": "Cs06",
+                  "path": "/doc/weeks/week-06/case-studies/cs06"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-06/assessments",
+              "children": [
+                {
+                  "title": "Week 06 Assessment",
+                  "path": "/doc/weeks/week-06/assessments/week-06-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-06/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 07 \u2014 SQL Server",
+          "path": "/doc/weeks/week-07",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-07/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-07/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Tuning Labs",
+                  "path": "/doc/weeks/week-07/theory/02-tuning-labs"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-07/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-07/labs",
+              "children": [
+                {
+                  "title": "Lab 07 Sql Indexing",
+                  "path": "/doc/weeks/week-07/labs/lab-07-sql-indexing"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-07/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-07/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-07/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-07/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-07/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-07/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-07/case-studies",
+              "children": [
+                {
+                  "title": "Cs07",
+                  "path": "/doc/weeks/week-07/case-studies/cs07"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-07/assessments",
+              "children": [
+                {
+                  "title": "Week 07 Assessment",
+                  "path": "/doc/weeks/week-07/assessments/week-07-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-07/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 08 \u2014 PostgreSQL",
+          "path": "/doc/weeks/week-08",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-08/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-08/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-08/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-08/labs",
+              "children": [
+                {
+                  "title": "Lab 08 Postgresql Docker",
+                  "path": "/doc/weeks/week-08/labs/lab-08-postgresql-docker"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-08/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-08/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-08/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-08/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-08/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-08/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-08/case-studies",
+              "children": [
+                {
+                  "title": "Cs08",
+                  "path": "/doc/weeks/week-08/case-studies/cs08"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-08/assessments",
+              "children": [
+                {
+                  "title": "Week 08 Assessment",
+                  "path": "/doc/weeks/week-08/assessments/week-08-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-08/common-mistakes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Month 3 \u2014 Azure Core",
+      "items": [
+        {
+          "title": "Week 09 \u2014 Azure Fundamentals",
+          "path": "/doc/weeks/week-09",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-09/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-09/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-09/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced",
+                  "path": "/doc/weeks/week-09/theory/03-advanced"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-09/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-09/labs",
+              "children": [
+                {
+                  "title": "Lab 09 Landing Zone",
+                  "path": "/doc/weeks/week-09/labs/lab-09-landing-zone"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-09/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-09/interview-questions",
+              "children": [
+                {
+                  "title": "01 Qa Bank",
+                  "path": "/doc/weeks/week-09/interview-questions/01-qa-bank"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-09/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-09/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-09/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-09/case-studies",
+              "children": [
+                {
+                  "title": "Cs09 Azure Landing Zone",
+                  "path": "/doc/weeks/week-09/case-studies/cs09-azure-landing-zone"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-09/assessments",
+              "children": [
+                {
+                  "title": "Week 09 Assessment",
+                  "path": "/doc/weeks/week-09/assessments/week-09-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-09/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 10 \u2014 Azure Compute",
+          "path": "/doc/weeks/week-10",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-10/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-10/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-10/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced",
+                  "path": "/doc/weeks/week-10/theory/03-advanced"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-10/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-10/labs",
+              "children": [
+                {
+                  "title": "Lab 10 App Service Deploy",
+                  "path": "/doc/weeks/week-10/labs/lab-10-app-service-deploy"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-10/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-10/interview-questions",
+              "children": [
+                {
+                  "title": "01 Qa Bank",
+                  "path": "/doc/weeks/week-10/interview-questions/01-qa-bank"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-10/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-10/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-10/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-10/case-studies",
+              "children": [
+                {
+                  "title": "Cs10 App Service Migration",
+                  "path": "/doc/weeks/week-10/case-studies/cs10-app-service-migration"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-10/assessments",
+              "children": [
+                {
+                  "title": "Week 10 Assessment",
+                  "path": "/doc/weeks/week-10/assessments/week-10-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-10/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 11 \u2014 Azure Data Platform",
+          "path": "/doc/weeks/week-11",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-11/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-11/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-11/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced",
+                  "path": "/doc/weeks/week-11/theory/03-advanced"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-11/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-11/labs",
+              "children": [
+                {
+                  "title": "Lab 11 Polyglot Data",
+                  "path": "/doc/weeks/week-11/labs/lab-11-polyglot-data"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-11/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-11/interview-questions",
+              "children": [
+                {
+                  "title": "01 Qa Bank",
+                  "path": "/doc/weeks/week-11/interview-questions/01-qa-bank"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-11/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-11/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-11/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-11/case-studies",
+              "children": [
+                {
+                  "title": "Cs11 Cosmos Vs Sql",
+                  "path": "/doc/weeks/week-11/case-studies/cs11-cosmos-vs-sql"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-11/assessments",
+              "children": [
+                {
+                  "title": "Week 11 Assessment",
+                  "path": "/doc/weeks/week-11/assessments/week-11-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-11/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 12 \u2014 Azure Identity",
+          "path": "/doc/weeks/week-12",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-12/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-12/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-12/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced",
+                  "path": "/doc/weeks/week-12/theory/03-advanced"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-12/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-12/labs",
+              "children": [
+                {
+                  "title": "Lab 12 Identity Keyvault",
+                  "path": "/doc/weeks/week-12/labs/lab-12-identity-keyvault"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-12/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-12/interview-questions",
+              "children": [
+                {
+                  "title": "01 Qa Bank",
+                  "path": "/doc/weeks/week-12/interview-questions/01-qa-bank"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-12/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-12/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-12/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-12/case-studies",
+              "children": [
+                {
+                  "title": "Cs12 Identity Breach",
+                  "path": "/doc/weeks/week-12/case-studies/cs12-identity-breach"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-12/assessments",
+              "children": [
+                {
+                  "title": "Week 12 Assessment",
+                  "path": "/doc/weeks/week-12/assessments/week-12-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-12/common-mistakes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Month 4 \u2014 Azure Deep Dive",
+      "items": [
+        {
+          "title": "Week 13 \u2014 Azure Networking",
+          "path": "/doc/weeks/week-13",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-13/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-13/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-13/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced",
+                  "path": "/doc/weeks/week-13/theory/03-advanced"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-13/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-13/labs",
+              "children": [
+                {
+                  "title": "Lab 13 Hub Spoke Network",
+                  "path": "/doc/weeks/week-13/labs/lab-13-hub-spoke-network"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-13/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-13/interview-questions",
+              "children": [
+                {
+                  "title": "01 Qa Bank",
+                  "path": "/doc/weeks/week-13/interview-questions/01-qa-bank"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-13/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-13/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-13/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-13/case-studies",
+              "children": [
+                {
+                  "title": "Cs13 Hub Spoke Network",
+                  "path": "/doc/weeks/week-13/case-studies/cs13-hub-spoke-network"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-13/assessments",
+              "children": [
+                {
+                  "title": "Week 13 Assessment",
+                  "path": "/doc/weeks/week-13/assessments/week-13-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-13/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 14 \u2014 Azure Security",
+          "path": "/doc/weeks/week-14",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-14/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-14/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-14/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced",
+                  "path": "/doc/weeks/week-14/theory/03-advanced"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-14/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-14/labs",
+              "children": [
+                {
+                  "title": "Lab 14 Security Hardening",
+                  "path": "/doc/weeks/week-14/labs/lab-14-security-hardening"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-14/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-14/interview-questions",
+              "children": [
+                {
+                  "title": "01 Qa Bank",
+                  "path": "/doc/weeks/week-14/interview-questions/01-qa-bank"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-14/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-14/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-14/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-14/case-studies",
+              "children": [
+                {
+                  "title": "Cs14 Security Incident",
+                  "path": "/doc/weeks/week-14/case-studies/cs14-security-incident"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-14/assessments",
+              "children": [
+                {
+                  "title": "Week 14 Assessment",
+                  "path": "/doc/weeks/week-14/assessments/week-14-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-14/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 15 \u2014 Azure Integration",
+          "path": "/doc/weeks/week-15",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-15/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-15/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-15/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced",
+                  "path": "/doc/weeks/week-15/theory/03-advanced"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-15/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-15/labs",
+              "children": [
+                {
+                  "title": "Lab 15 Messaging Outbox",
+                  "path": "/doc/weeks/week-15/labs/lab-15-messaging-outbox"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-15/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-15/interview-questions",
+              "children": [
+                {
+                  "title": "01 Qa Bank",
+                  "path": "/doc/weeks/week-15/interview-questions/01-qa-bank"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-15/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-15/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-15/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-15/case-studies",
+              "children": [
+                {
+                  "title": "Cs15 Saga Failure",
+                  "path": "/doc/weeks/week-15/case-studies/cs15-saga-failure"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-15/assessments",
+              "children": [
+                {
+                  "title": "Week 15 Assessment",
+                  "path": "/doc/weeks/week-15/assessments/week-15-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-15/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 16 \u2014 Azure Capstone",
+          "path": "/doc/weeks/week-16",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-16/theory",
+              "children": [
+                {
+                  "title": "01 Capstone Guide",
+                  "path": "/doc/weeks/week-16/theory/01-capstone-guide"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-16/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced",
+                  "path": "/doc/weeks/week-16/theory/03-advanced"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-16/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-16/labs",
+              "children": [
+                {
+                  "title": "Lab 16 Azure Production Capstone",
+                  "path": "/doc/weeks/week-16/labs/lab-16-azure-production-capstone"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-16/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-16/interview-questions",
+              "children": [
+                {
+                  "title": "01 Qa Bank",
+                  "path": "/doc/weeks/week-16/interview-questions/01-qa-bank"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-16/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-16/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-16/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-16/case-studies",
+              "children": [
+                {
+                  "title": "Cs16 Multi Region Saas",
+                  "path": "/doc/weeks/week-16/case-studies/cs16-multi-region-saas"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-16/assessments",
+              "children": [
+                {
+                  "title": "Week 16 Assessment",
+                  "path": "/doc/weeks/week-16/assessments/week-16-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-16/common-mistakes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Month 5 \u2014 AWS & Multi-Cloud",
+      "items": [
+        {
+          "title": "Week 17 \u2014 AWS Fundamentals",
+          "path": "/doc/weeks/week-17",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-17/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-17/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Compute Overview",
+                  "path": "/doc/weeks/week-17/theory/02-compute-overview"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-17/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced",
+                  "path": "/doc/weeks/week-17/theory/03-advanced"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-17/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-17/labs",
+              "children": [
+                {
+                  "title": "Lab 17 Aws Landing Zone",
+                  "path": "/doc/weeks/week-17/labs/lab-17-aws-landing-zone"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-17/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-17/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-17/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-17/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-17/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-17/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-17/case-studies",
+              "children": [
+                {
+                  "title": "Cs17",
+                  "path": "/doc/weeks/week-17/case-studies/cs17"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-17/assessments",
+              "children": [
+                {
+                  "title": "Week 17 Assessment",
+                  "path": "/doc/weeks/week-17/assessments/week-17-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-17/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 18 \u2014 AWS Compute",
+          "path": "/doc/weeks/week-18",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-18/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-18/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-18/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced",
+                  "path": "/doc/weeks/week-18/theory/03-advanced"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-18/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-18/labs",
+              "children": [
+                {
+                  "title": "Lab 18 Lambda Deploy",
+                  "path": "/doc/weeks/week-18/labs/lab-18-lambda-deploy"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-18/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-18/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-18/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-18/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-18/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-18/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-18/case-studies",
+              "children": [
+                {
+                  "title": "Cs18",
+                  "path": "/doc/weeks/week-18/case-studies/cs18"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-18/assessments",
+              "children": [
+                {
+                  "title": "Week 18 Assessment",
+                  "path": "/doc/weeks/week-18/assessments/week-18-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-18/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 19 \u2014 AWS Data & VPC",
+          "path": "/doc/weeks/week-19",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-19/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-19/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-19/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced",
+                  "path": "/doc/weeks/week-19/theory/03-advanced"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-19/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-19/labs",
+              "children": [
+                {
+                  "title": "Lab 19 Vpc Rds",
+                  "path": "/doc/weeks/week-19/labs/lab-19-vpc-rds"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-19/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-19/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-19/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-19/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-19/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-19/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-19/case-studies",
+              "children": [
+                {
+                  "title": "Cs19",
+                  "path": "/doc/weeks/week-19/case-studies/cs19"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-19/assessments",
+              "children": [
+                {
+                  "title": "Week 19 Assessment",
+                  "path": "/doc/weeks/week-19/assessments/week-19-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-19/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 20 \u2014 Multi-Cloud",
+          "path": "/doc/weeks/week-20",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-20/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-20/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-20/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced",
+                  "path": "/doc/weeks/week-20/theory/03-advanced"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-20/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-20/labs",
+              "children": [
+                {
+                  "title": "Lab 20 Terraform Multicloud",
+                  "path": "/doc/weeks/week-20/labs/lab-20-terraform-multicloud"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-20/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-20/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-20/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-20/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-20/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-20/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-20/case-studies",
+              "children": [
+                {
+                  "title": "Cs20 Multicloud Comparison",
+                  "path": "/doc/weeks/week-20/case-studies/cs20-multicloud-comparison"
+                },
+                {
+                  "title": "Cs20",
+                  "path": "/doc/weeks/week-20/case-studies/cs20"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-20/assessments",
+              "children": [
+                {
+                  "title": "Week 20 Assessment",
+                  "path": "/doc/weeks/week-20/assessments/week-20-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-20/common-mistakes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Month 6 \u2014 Distributed Systems",
+      "items": [
+        {
+          "title": "Week 21 \u2014 Distributed Systems",
+          "path": "/doc/weeks/week-21",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-21/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-21/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-21/theory/02-intermediate"
+                },
+                {
+                  "title": "03 Advanced Expert",
+                  "path": "/doc/weeks/week-21/theory/03-advanced-expert"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-21/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-21/labs",
+              "children": [
+                {
+                  "title": "Lab 21 Polly Resilience",
+                  "path": "/doc/weeks/week-21/labs/lab-21-polly-resilience"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-21/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-21/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-21/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-21/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-21/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-21/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-21/case-studies",
+              "children": [
+                {
+                  "title": "Cs21 Double Charge",
+                  "path": "/doc/weeks/week-21/case-studies/cs21-double-charge"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-21/assessments",
+              "children": [
+                {
+                  "title": "Week 21 Assessment",
+                  "path": "/doc/weeks/week-21/assessments/week-21-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-21/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 22 \u2014 Microservices",
+          "path": "/doc/weeks/week-22",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-22/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-22/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-22/theory/02-intermediate"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-22/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-22/labs",
+              "children": [
+                {
+                  "title": "Lab 22 Ocelot Gateway",
+                  "path": "/doc/weeks/week-22/labs/lab-22-ocelot-gateway"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-22/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-22/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-22/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-22/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-22/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-22/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-22/case-studies",
+              "children": [
+                {
+                  "title": "Cs22 Monolith Extraction",
+                  "path": "/doc/weeks/week-22/case-studies/cs22-monolith-extraction"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-22/assessments",
+              "children": [
+                {
+                  "title": "Week 22 Assessment",
+                  "path": "/doc/weeks/week-22/assessments/week-22-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-22/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 23 \u2014 Domain-Driven Design",
+          "path": "/doc/weeks/week-23",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-23/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-23/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-23/theory/02-intermediate"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-23/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-23/labs",
+              "children": [
+                {
+                  "title": "Lab 23 Event Storming",
+                  "path": "/doc/weeks/week-23/labs/lab-23-event-storming"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-23/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-23/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-23/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-23/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-23/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-23/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-23/case-studies"
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-23/assessments",
+              "children": [
+                {
+                  "title": "Week 23 Assessment",
+                  "path": "/doc/weeks/week-23/assessments/week-23-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-23/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 24 \u2014 Microservices Capstone",
+          "path": "/doc/weeks/week-24",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-24/theory",
+              "children": [
+                {
+                  "title": "01 Capstone Guide",
+                  "path": "/doc/weeks/week-24/theory/01-capstone-guide"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-24/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-24/labs",
+              "children": [
+                {
+                  "title": "Lab 24 Capstone Design",
+                  "path": "/doc/weeks/week-24/labs/lab-24-capstone-design"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-24/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-24/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-24/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-24/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-24/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-24/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-24/case-studies"
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-24/assessments",
+              "children": [
+                {
+                  "title": "Week 24 Assessment",
+                  "path": "/doc/weeks/week-24/assessments/week-24-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-24/common-mistakes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Month 7 \u2014 Containers & K8s",
+      "items": [
+        {
+          "title": "Week 25 \u2014 Docker & Containers",
+          "path": "/doc/weeks/week-25",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-25/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-25/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-25/theory/02-intermediate"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-25/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-25/labs",
+              "children": [
+                {
+                  "title": "Lab 25 Dockerfile",
+                  "path": "/doc/weeks/week-25/labs/lab-25-dockerfile"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-25/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-25/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-25/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-25/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-25/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-25/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-25/case-studies",
+              "children": [
+                {
+                  "title": "Cs25",
+                  "path": "/doc/weeks/week-25/case-studies/cs25"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-25/assessments",
+              "children": [
+                {
+                  "title": "Week 25 Assessment",
+                  "path": "/doc/weeks/week-25/assessments/week-25-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-25/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 26 \u2014 Kubernetes Fundamentals",
+          "path": "/doc/weeks/week-26",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-26/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-26/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-26/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-26/labs",
+              "children": [
+                {
+                  "title": "Lab 26 K8S Deploy",
+                  "path": "/doc/weeks/week-26/labs/lab-26-k8s-deploy"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-26/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-26/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-26/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-26/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-26/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-26/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-26/case-studies",
+              "children": [
+                {
+                  "title": "Cs26",
+                  "path": "/doc/weeks/week-26/case-studies/cs26"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-26/assessments",
+              "children": [
+                {
+                  "title": "Week 26 Assessment",
+                  "path": "/doc/weeks/week-26/assessments/week-26-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-26/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 27 \u2014 Kubernetes Advanced",
+          "path": "/doc/weeks/week-27",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-27/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-27/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-27/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-27/labs",
+              "children": [
+                {
+                  "title": "Lab 27 Gitops Argocd",
+                  "path": "/doc/weeks/week-27/labs/lab-27-gitops-argocd"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-27/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-27/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-27/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-27/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-27/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-27/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-27/case-studies",
+              "children": [
+                {
+                  "title": "Cs27 Aks Decision",
+                  "path": "/doc/weeks/week-27/case-studies/cs27-aks-decision"
+                },
+                {
+                  "title": "Cs27",
+                  "path": "/doc/weeks/week-27/case-studies/cs27"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-27/assessments",
+              "children": [
+                {
+                  "title": "Week 27 Assessment",
+                  "path": "/doc/weeks/week-27/assessments/week-27-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-27/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 28 \u2014 Linux for Architects",
+          "path": "/doc/weeks/week-28",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-28/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-28/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-28/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-28/labs",
+              "children": [
+                {
+                  "title": "Lab 28 Linux Troubleshooting",
+                  "path": "/doc/weeks/week-28/labs/lab-28-linux-troubleshooting"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-28/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-28/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-28/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-28/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-28/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-28/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-28/case-studies",
+              "children": [
+                {
+                  "title": "Cs28",
+                  "path": "/doc/weeks/week-28/case-studies/cs28"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-28/assessments",
+              "children": [
+                {
+                  "title": "Week 28 Assessment",
+                  "path": "/doc/weeks/week-28/assessments/week-28-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-28/common-mistakes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Month 8 \u2014 DevOps",
+      "items": [
+        {
+          "title": "Week 29 \u2014 DevOps Culture",
+          "path": "/doc/weeks/week-29",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-29/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-29/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-29/theory/02-intermediate"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-29/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-29/labs",
+              "children": [
+                {
+                  "title": "Lab 29 Feature Flags",
+                  "path": "/doc/weeks/week-29/labs/lab-29-feature-flags"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-29/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-29/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-29/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-29/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-29/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-29/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-29/case-studies",
+              "children": [
+                {
+                  "title": "Cs29 Dora Transformation",
+                  "path": "/doc/weeks/week-29/case-studies/cs29-dora-transformation"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-29/assessments",
+              "children": [
+                {
+                  "title": "Week 29 Assessment",
+                  "path": "/doc/weeks/week-29/assessments/week-29-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-29/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 30 \u2014 CI/CD Pipelines",
+          "path": "/doc/weeks/week-30",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-30/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-30/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-30/theory/02-intermediate"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-30/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-30/labs",
+              "children": [
+                {
+                  "title": "Lab 30 Github Actions",
+                  "path": "/doc/weeks/week-30/labs/lab-30-github-actions"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-30/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-30/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-30/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-30/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-30/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-30/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-30/case-studies",
+              "children": [
+                {
+                  "title": "Cs30 Pipeline Secrets Breach",
+                  "path": "/doc/weeks/week-30/case-studies/cs30-pipeline-secrets-breach"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-30/assessments",
+              "children": [
+                {
+                  "title": "Week 30 Assessment",
+                  "path": "/doc/weeks/week-30/assessments/week-30-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-30/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 31 \u2014 Infrastructure as Code",
+          "path": "/doc/weeks/week-31",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-31/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-31/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-31/theory/02-intermediate"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-31/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-31/labs",
+              "children": [
+                {
+                  "title": "Lab 31 Terraform Bicep",
+                  "path": "/doc/weeks/week-31/labs/lab-31-terraform-bicep"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-31/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-31/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-31/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-31/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-31/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-31/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-31/case-studies",
+              "children": [
+                {
+                  "title": "Cs31 Iac Drift Outage",
+                  "path": "/doc/weeks/week-31/case-studies/cs31-iac-drift-outage"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-31/assessments",
+              "children": [
+                {
+                  "title": "Week 31 Assessment",
+                  "path": "/doc/weeks/week-31/assessments/week-31-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-31/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 32 \u2014 Observability",
+          "path": "/doc/weeks/week-32",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-32/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-32/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-32/theory/02-intermediate"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-32/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-32/labs",
+              "children": [
+                {
+                  "title": "Lab 32 Month8 Capstone",
+                  "path": "/doc/weeks/week-32/labs/lab-32-month8-capstone"
+                },
+                {
+                  "title": "Lab 32 Opentelemetry",
+                  "path": "/doc/weeks/week-32/labs/lab-32-opentelemetry"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-32/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-32/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-32/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-32/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-32/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-32/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-32/case-studies",
+              "children": [
+                {
+                  "title": "Cs32 Observability Failover",
+                  "path": "/doc/weeks/week-32/case-studies/cs32-observability-failover"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-32/assessments",
+              "children": [
+                {
+                  "title": "Week 32 Assessment",
+                  "path": "/doc/weeks/week-32/assessments/week-32-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-32/common-mistakes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Month 9 \u2014 System Design",
+      "items": [
+        {
+          "title": "Week 33 \u2014 System Design",
+          "path": "/doc/weeks/week-33",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-33/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-33/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-33/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-33/labs",
+              "children": [
+                {
+                  "title": "Lab 33 Whiteboard Url Shortener",
+                  "path": "/doc/weeks/week-33/labs/lab-33-whiteboard-url-shortener"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-33/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-33/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-33/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-33/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-33/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-33/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-33/case-studies",
+              "children": [
+                {
+                  "title": "Cs33 Video Streaming Design",
+                  "path": "/doc/weeks/week-33/case-studies/cs33-video-streaming-design"
+                },
+                {
+                  "title": "Cs33",
+                  "path": "/doc/weeks/week-33/case-studies/cs33"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-33/assessments",
+              "children": [
+                {
+                  "title": "Week 33 Assessment",
+                  "path": "/doc/weeks/week-33/assessments/week-33-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-33/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 34 \u2014 Scalability & Caching",
+          "path": "/doc/weeks/week-34",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-34/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-34/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-34/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-34/labs",
+              "children": [
+                {
+                  "title": "Lab 34 Caching Redis",
+                  "path": "/doc/weeks/week-34/labs/lab-34-caching-redis"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-34/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-34/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-34/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-34/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-34/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-34/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-34/case-studies",
+              "children": [
+                {
+                  "title": "Cs34",
+                  "path": "/doc/weeks/week-34/case-studies/cs34"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-34/assessments",
+              "children": [
+                {
+                  "title": "Week 34 Assessment",
+                  "path": "/doc/weeks/week-34/assessments/week-34-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-34/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 35 \u2014 Messaging & Events",
+          "path": "/doc/weeks/week-35",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-35/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-35/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-35/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-35/labs",
+              "children": [
+                {
+                  "title": "Lab 35 Outbox Pattern",
+                  "path": "/doc/weeks/week-35/labs/lab-35-outbox-pattern"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-35/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-35/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-35/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-35/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-35/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-35/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-35/case-studies",
+              "children": [
+                {
+                  "title": "Cs35",
+                  "path": "/doc/weeks/week-35/case-studies/cs35"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-35/assessments",
+              "children": [
+                {
+                  "title": "Week 35 Assessment",
+                  "path": "/doc/weeks/week-35/assessments/week-35-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-35/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 36 \u2014 System Design Capstone",
+          "path": "/doc/weeks/week-36",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-36/theory",
+              "children": [
+                {
+                  "title": "01 Capstone Designs",
+                  "path": "/doc/weeks/week-36/theory/01-capstone-designs"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-36/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-36/labs",
+              "children": [
+                {
+                  "title": "Lab 36 System Design Capstone",
+                  "path": "/doc/weeks/week-36/labs/lab-36-system-design-capstone"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-36/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-36/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-36/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-36/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-36/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-36/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-36/case-studies",
+              "children": [
+                {
+                  "title": "Cs36",
+                  "path": "/doc/weeks/week-36/case-studies/cs36"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-36/assessments",
+              "children": [
+                {
+                  "title": "Week 36 Assessment",
+                  "path": "/doc/weeks/week-36/assessments/week-36-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-36/common-mistakes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Month 10 \u2014 AI Architecture",
+      "items": [
+        {
+          "title": "Week 37 \u2014 AI/ML Architecture",
+          "path": "/doc/weeks/week-37",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-37/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-37/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-37/theory/02-intermediate"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-37/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-37/labs",
+              "children": [
+                {
+                  "title": "Lab 37 Ml Endpoint",
+                  "path": "/doc/weeks/week-37/labs/lab-37-ml-endpoint"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-37/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-37/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-37/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-37/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-37/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-37/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-37/case-studies",
+              "children": [
+                {
+                  "title": "Cs37 Fraud Ml",
+                  "path": "/doc/weeks/week-37/case-studies/cs37-fraud-ml"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-37/assessments",
+              "children": [
+                {
+                  "title": "Week 37 Assessment",
+                  "path": "/doc/weeks/week-37/assessments/week-37-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-37/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 38 \u2014 RAG & Vector Search",
+          "path": "/doc/weeks/week-38",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-38/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-38/theory/01-fundamentals"
+                },
+                {
+                  "title": "02 Intermediate",
+                  "path": "/doc/weeks/week-38/theory/02-intermediate"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-38/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-38/labs",
+              "children": [
+                {
+                  "title": "Lab 38 Rag Pipeline",
+                  "path": "/doc/weeks/week-38/labs/lab-38-rag-pipeline"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-38/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-38/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-38/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-38/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-38/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-38/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-38/case-studies",
+              "children": [
+                {
+                  "title": "Cs38 Rag Hallucination",
+                  "path": "/doc/weeks/week-38/case-studies/cs38-rag-hallucination"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-38/assessments",
+              "children": [
+                {
+                  "title": "Week 38 Assessment",
+                  "path": "/doc/weeks/week-38/assessments/week-38-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-38/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 39 \u2014 LLMOps",
+          "path": "/doc/weeks/week-39",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-39/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-39/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-39/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-39/labs",
+              "children": [
+                {
+                  "title": "Lab 39 Llmops Eval",
+                  "path": "/doc/weeks/week-39/labs/lab-39-llmops-eval"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-39/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-39/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-39/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-39/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-39/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-39/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-39/case-studies",
+              "children": [
+                {
+                  "title": "Cs39 Llm Cost Blowout",
+                  "path": "/doc/weeks/week-39/case-studies/cs39-llm-cost-blowout"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-39/assessments",
+              "children": [
+                {
+                  "title": "Week 39 Assessment",
+                  "path": "/doc/weeks/week-39/assessments/week-39-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-39/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 40 \u2014 AI Capstone",
+          "path": "/doc/weeks/week-40",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-40/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-40/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-40/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-40/labs",
+              "children": [
+                {
+                  "title": "Lab 40 Ai Capstone",
+                  "path": "/doc/weeks/week-40/labs/lab-40-ai-capstone"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-40/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-40/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-40/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-40/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-40/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-40/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-40/case-studies",
+              "children": [
+                {
+                  "title": "Cs40 Capstone Presentation",
+                  "path": "/doc/weeks/week-40/case-studies/cs40-capstone-presentation"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-40/assessments",
+              "children": [
+                {
+                  "title": "Week 40 Assessment",
+                  "path": "/doc/weeks/week-40/assessments/week-40-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-40/common-mistakes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Month 11 \u2014 Enterprise",
+      "items": [
+        {
+          "title": "Week 41 \u2014 Architecture Reviews",
+          "path": "/doc/weeks/week-41",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-41/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-41/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-41/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-41/labs",
+              "children": [
+                {
+                  "title": "Lab 41 Adr Workshop",
+                  "path": "/doc/weeks/week-41/labs/lab-41-adr-workshop"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-41/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-41/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-41/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-41/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-41/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-41/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-41/case-studies",
+              "children": [
+                {
+                  "title": "Cs41 Adr Review",
+                  "path": "/doc/weeks/week-41/case-studies/cs41-adr-review"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-41/assessments",
+              "children": [
+                {
+                  "title": "Week 41 Assessment",
+                  "path": "/doc/weeks/week-41/assessments/week-41-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-41/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 42 \u2014 FinOps & DR",
+          "path": "/doc/weeks/week-42",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-42/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-42/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-42/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-42/labs",
+              "children": [
+                {
+                  "title": "Lab 42 Finops Cost Model",
+                  "path": "/doc/weeks/week-42/labs/lab-42-finops-cost-model"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-42/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-42/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-42/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-42/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-42/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-42/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-42/case-studies",
+              "children": [
+                {
+                  "title": "Cs42 Dr Drill Failure",
+                  "path": "/doc/weeks/week-42/case-studies/cs42-dr-drill-failure"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-42/assessments",
+              "children": [
+                {
+                  "title": "Week 42 Assessment",
+                  "path": "/doc/weeks/week-42/assessments/week-42-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-42/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 43 \u2014 Frontend Architecture",
+          "path": "/doc/weeks/week-43",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-43/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-43/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-43/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-43/labs",
+              "children": [
+                {
+                  "title": "Lab 43 Bff Vs Micro Frontend",
+                  "path": "/doc/weeks/week-43/labs/lab-43-bff-vs-micro-frontend"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-43/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-43/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-43/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-43/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-43/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-43/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-43/case-studies",
+              "children": [
+                {
+                  "title": "Cs43 Micro Frontend",
+                  "path": "/doc/weeks/week-43/case-studies/cs43-micro-frontend"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-43/assessments",
+              "children": [
+                {
+                  "title": "Week 43 Assessment",
+                  "path": "/doc/weeks/week-43/assessments/week-43-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-43/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 44 \u2014 Enterprise Case Studies",
+          "path": "/doc/weeks/week-44",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-44/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-44/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-44/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-44/labs",
+              "children": [
+                {
+                  "title": "Lab 44 Case Study Review",
+                  "path": "/doc/weeks/week-44/labs/lab-44-case-study-review"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-44/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-44/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-44/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-44/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-44/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-44/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-44/case-studies",
+              "children": [
+                {
+                  "title": "Cs44A Healthcare Hipaa",
+                  "path": "/doc/weeks/week-44/case-studies/cs44a-healthcare-hipaa"
+                },
+                {
+                  "title": "Cs44B Fintech Payments",
+                  "path": "/doc/weeks/week-44/case-studies/cs44b-fintech-payments"
+                },
+                {
+                  "title": "Cs44C Retail Peak",
+                  "path": "/doc/weeks/week-44/case-studies/cs44c-retail-peak"
+                },
+                {
+                  "title": "Cs44D Saas Multitenant",
+                  "path": "/doc/weeks/week-44/case-studies/cs44d-saas-multitenant"
+                }
+              ]
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-44/assessments",
+              "children": [
+                {
+                  "title": "Week 44 Assessment",
+                  "path": "/doc/weeks/week-44/assessments/week-44-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-44/common-mistakes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Month 12 \u2014 Interview & Graduation",
+      "items": [
+        {
+          "title": "Week 45 \u2014 Interview Intensive I",
+          "path": "/doc/weeks/week-45",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-45/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-45/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-45/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-45/labs",
+              "children": [
+                {
+                  "title": "Lab 45 Technical Drill",
+                  "path": "/doc/weeks/week-45/labs/lab-45-technical-drill"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-45/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-45/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-45/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-45/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-45/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-45/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-45/case-studies"
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-45/assessments",
+              "children": [
+                {
+                  "title": "Week 45 Assessment",
+                  "path": "/doc/weeks/week-45/assessments/week-45-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-45/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 46 \u2014 Interview Intensive II",
+          "path": "/doc/weeks/week-46",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-46/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-46/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-46/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-46/labs",
+              "children": [
+                {
+                  "title": "Lab 46 Cloud Comparison Lab",
+                  "path": "/doc/weeks/week-46/labs/lab-46-cloud-comparison-lab"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-46/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-46/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-46/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-46/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-46/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-46/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-46/case-studies"
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-46/assessments",
+              "children": [
+                {
+                  "title": "Week 46 Assessment",
+                  "path": "/doc/weeks/week-46/assessments/week-46-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-46/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 47 \u2014 Interview Intensive III",
+          "path": "/doc/weeks/week-47",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-47/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-47/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-47/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-47/labs",
+              "children": [
+                {
+                  "title": "Lab 47 System Design Drill",
+                  "path": "/doc/weeks/week-47/labs/lab-47-system-design-drill"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-47/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-47/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-47/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-47/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-47/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-47/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-47/case-studies"
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-47/assessments",
+              "children": [
+                {
+                  "title": "Week 47 Assessment",
+                  "path": "/doc/weeks/week-47/assessments/week-47-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-47/common-mistakes"
+            }
+          ]
+        },
+        {
+          "title": "Week 48 \u2014 Whiteboard Mocks I",
+          "path": "/doc/weeks/week-48",
+          "children": [
+            {
+              "title": "Theory",
+              "path": "/doc/weeks/week-48/theory",
+              "children": [
+                {
+                  "title": "01 Fundamentals",
+                  "path": "/doc/weeks/week-48/theory/01-fundamentals"
+                }
+              ]
+            },
+            {
+              "title": "Diagrams",
+              "path": "/doc/weeks/week-48/diagrams"
+            },
+            {
+              "title": "Labs",
+              "path": "/doc/weeks/week-48/labs",
+              "children": [
+                {
+                  "title": "Lab 48 Whiteboard Marathon 1",
+                  "path": "/doc/weeks/week-48/labs/lab-48-whiteboard-marathon-1"
+                }
+              ]
+            },
+            {
+              "title": "Exercises",
+              "path": "/doc/weeks/week-48/exercises"
+            },
+            {
+              "title": "Interview Q&A",
+              "path": "/doc/weeks/week-48/interview-questions",
+              "children": [
+                {
+                  "title": "01 Fundamentals Qa",
+                  "path": "/doc/weeks/week-48/interview-questions/01-fundamentals-qa"
+                },
+                {
+                  "title": "02 Intermediate Qa",
+                  "path": "/doc/weeks/week-48/interview-questions/02-intermediate-qa"
+                },
+                {
+                  "title": "03 Advanced Qa",
+                  "path": "/doc/weeks/week-48/interview-questions/03-advanced-qa"
+                },
+                {
+                  "title": "04 Expert Scenarios",
+                  "path": "/doc/weeks/week-48/interview-questions/04-expert-scenarios"
+                }
+              ]
+            },
+            {
+              "title": "Case Studies",
+              "path": "/doc/weeks/week-48/case-studies"
+            },
+            {
+              "title": "Assessments",
+              "path": "/doc/weeks/week-48/assessments",
+              "children": [
+                {
+                  "title": "Week 48 Assessment",
+                  "path": "/doc/weeks/week-48/assessments/week-48-assessment"
+                }
+              ]
+            },
+            {
+              "title": "Common Mistakes",
+              "path": "/doc/weeks/week-48/common-mistakes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Program",
+      "items": [
+        {
+          "title": "Phase 1 Capstone",
+          "path": "/doc/program/phase-01-month-01/capstone"
+        },
+        {
+          "title": "Phase 2 Capstone",
+          "path": "/doc/program/phase-02-month-02/capstone"
+        },
+        {
+          "title": "Phase 3 Capstone",
+          "path": "/doc/program/phase-03-month-03/capstone"
+        },
+        {
+          "title": "Phase 4 Capstone",
+          "path": "/doc/program/phase-04-month-04/capstone"
+        },
+        {
+          "title": "Phase 5 Capstone",
+          "path": "/doc/program/phase-05-month-05/capstone"
+        },
+        {
+          "title": "Phase 6 Capstone",
+          "path": "/doc/program/phase-06-month-06/capstone"
+        },
+        {
+          "title": "Phase 7 Capstone",
+          "path": "/doc/program/phase-07-month-07/capstone"
+        },
+        {
+          "title": "Phase 8 Capstone",
+          "path": "/doc/program/phase-08-month-08/capstone"
+        },
+        {
+          "title": "Phase 9 Capstone",
+          "path": "/doc/program/phase-09-month-09/capstone"
+        },
+        {
+          "title": "Phase 10 Capstone",
+          "path": "/doc/program/phase-10-month-10/capstone"
+        },
+        {
+          "title": "Phase 11 Capstone",
+          "path": "/doc/program/phase-11-month-11/capstone"
+        },
+        {
+          "title": "Phase 12 Capstone",
+          "path": "/doc/program/phase-12-month-12/capstone"
+        }
+      ]
+    },
+    {
+      "title": "Modules",
+      "items": [
+        {
+          "title": "Ai Architecture Rag Llmops",
+          "path": "/doc/modules/ai-architecture-rag-llmops"
+        },
+        {
+          "title": "Angular",
+          "path": "/doc/modules/angular"
+        },
+        {
+          "title": "Architecture Documentation",
+          "path": "/doc/modules/architecture-documentation"
+        },
+        {
+          "title": "Aws Architecture",
+          "path": "/doc/modules/aws-architecture"
+        },
+        {
+          "title": "Aws Fundamentals",
+          "path": "/doc/modules/aws-fundamentals"
+        },
+        {
+          "title": "Azure Architecture",
+          "path": "/doc/modules/azure-architecture"
+        },
+        {
+          "title": "Azure Fundamentals",
+          "path": "/doc/modules/azure-fundamentals"
+        },
+        {
+          "title": "Azure Services",
+          "path": "/doc/modules/azure-services"
+        },
+        {
+          "title": "Caching Messaging",
+          "path": "/doc/modules/caching-messaging"
+        },
+        {
+          "title": "Case Studies",
+          "path": "/doc/modules/case-studies"
+        },
+        {
+          "title": "Csharp Dotnet",
+          "path": "/doc/modules/csharp-dotnet"
+        },
+        {
+          "title": "Ddd",
+          "path": "/doc/modules/ddd"
+        },
+        {
+          "title": "Design Patterns Solid",
+          "path": "/doc/modules/design-patterns-solid"
+        },
+        {
+          "title": "Devops Cicd",
+          "path": "/doc/modules/devops-cicd"
+        },
+        {
+          "title": "Docker Kubernetes",
+          "path": "/doc/modules/docker-kubernetes"
+        },
+        {
+          "title": "Dsa",
+          "path": "/doc/modules/dsa"
+        },
+        {
+          "title": "Iac Terraform Bicep",
+          "path": "/doc/modules/iac-terraform-bicep"
+        },
+        {
+          "title": "Leadership Governance",
+          "path": "/doc/modules/leadership-governance"
+        },
+        {
+          "title": "Linux",
+          "path": "/doc/modules/linux"
+        },
+        {
+          "title": "Microservices Distributed Systems",
+          "path": "/doc/modules/microservices-distributed-systems"
+        },
+        {
+          "title": "Observability",
+          "path": "/doc/modules/observability"
+        },
+        {
+          "title": "Postgresql",
+          "path": "/doc/modules/postgresql"
+        },
+        {
+          "title": "React",
+          "path": "/doc/modules/react"
+        },
+        {
+          "title": "Sql Server",
+          "path": "/doc/modules/sql-server"
+        },
+        {
+          "title": "System Design",
+          "path": "/doc/modules/system-design"
+        }
+      ]
+    },
+    {
+      "title": "Interview Prep",
+      "items": [
+        {
+          "title": "Aws Top 50 Index",
+          "path": "/doc/interview-prep/aws-top-50-index"
+        },
+        {
+          "title": "Aws Top 50 Qa Part1",
+          "path": "/doc/interview-prep/aws-top-50-qa-part1"
+        },
+        {
+          "title": "Aws Top 50 Qa Part2",
+          "path": "/doc/interview-prep/aws-top-50-qa-part2"
+        },
+        {
+          "title": "Aws Top 50 Qa Part3",
+          "path": "/doc/interview-prep/aws-top-50-qa-part3"
+        },
+        {
+          "title": "Azure Top 50 Index",
+          "path": "/doc/interview-prep/azure-top-50-index"
+        },
+        {
+          "title": "Azure Top 50 Qa Part1",
+          "path": "/doc/interview-prep/azure-top-50-qa-part1"
+        },
+        {
+          "title": "Azure Top 50 Qa Part2",
+          "path": "/doc/interview-prep/azure-top-50-qa-part2"
+        },
+        {
+          "title": "Azure Top 50 Qa Part3",
+          "path": "/doc/interview-prep/azure-top-50-qa-part3"
+        },
+        {
+          "title": "Behavioral",
+          "path": "/doc/interview-prep/behavioral"
+        },
+        {
+          "title": "Devops Top 50 Index",
+          "path": "/doc/interview-prep/devops-top-50-index"
+        },
+        {
+          "title": "Devops Top 50 Qa Part1",
+          "path": "/doc/interview-prep/devops-top-50-qa-part1"
+        },
+        {
+          "title": "Devops Top 50 Qa Part2",
+          "path": "/doc/interview-prep/devops-top-50-qa-part2"
+        },
+        {
+          "title": "Devops Top 50 Qa Part3",
+          "path": "/doc/interview-prep/devops-top-50-qa-part3"
+        },
+        {
+          "title": "Microservices Top 50 Index",
+          "path": "/doc/interview-prep/microservices-top-50-index"
+        },
+        {
+          "title": "Microservices Top 50 Qa Part1",
+          "path": "/doc/interview-prep/microservices-top-50-qa-part1"
+        },
+        {
+          "title": "Microservices Top 50 Qa Part2",
+          "path": "/doc/interview-prep/microservices-top-50-qa-part2"
+        },
+        {
+          "title": "Microservices Top 50 Qa Part3",
+          "path": "/doc/interview-prep/microservices-top-50-qa-part3"
+        },
+        {
+          "title": "Mock Interviews",
+          "path": "/doc/interview-prep/mock-interviews"
+        },
+        {
+          "title": "Month 01 Top 50 Index",
+          "path": "/doc/interview-prep/month-01-top-50-index"
+        },
+        {
+          "title": "Month 01 Top 50 Part1",
+          "path": "/doc/interview-prep/month-01-top-50-part1"
+        },
+        {
+          "title": "Month 01 Top 50 Part2",
+          "path": "/doc/interview-prep/month-01-top-50-part2"
+        },
+        {
+          "title": "Month 01 Top 50 Part3",
+          "path": "/doc/interview-prep/month-01-top-50-part3"
+        },
+        {
+          "title": "Month 02 Top 50 Index",
+          "path": "/doc/interview-prep/month-02-top-50-index"
+        },
+        {
+          "title": "Month 02 Top 50 Part1",
+          "path": "/doc/interview-prep/month-02-top-50-part1"
+        },
+        {
+          "title": "Month 02 Top 50 Part2",
+          "path": "/doc/interview-prep/month-02-top-50-part2"
+        },
+        {
+          "title": "Scenario Based",
+          "path": "/doc/interview-prep/scenario-based"
+        },
+        {
+          "title": "System Design Top 50 Index",
+          "path": "/doc/interview-prep/system-design-top-50-index"
+        },
+        {
+          "title": "System Design Top 50 Qa Part1",
+          "path": "/doc/interview-prep/system-design-top-50-qa-part1"
+        },
+        {
+          "title": "System Design Top 50 Qa Part2",
+          "path": "/doc/interview-prep/system-design-top-50-qa-part2"
+        },
+        {
+          "title": "System Design Top 50 Qa Part3",
+          "path": "/doc/interview-prep/system-design-top-50-qa-part3"
+        },
+        {
+          "title": "Whiteboard",
+          "path": "/doc/interview-prep/whiteboard"
+        }
+      ]
+    },
+    {
+      "title": "Documentation",
+      "items": [
+        {
+          "title": "Cross Cutting",
+          "path": "/doc/docs/cross-cutting",
+          "children": [
+            {
+              "title": "Architecture Documentation",
+              "path": "/doc/docs/cross-cutting/architecture-documentation"
+            },
+            {
+              "title": "Disaster Recovery Bcp",
+              "path": "/doc/docs/cross-cutting/disaster-recovery-bcp"
+            },
+            {
+              "title": "Enterprise Integration Patterns",
+              "path": "/doc/docs/cross-cutting/enterprise-integration-patterns"
+            },
+            {
+              "title": "Finops Cost Optimization",
+              "path": "/doc/docs/cross-cutting/finops-cost-optimization"
+            },
+            {
+              "title": "Leadership Governance",
+              "path": "/doc/docs/cross-cutting/leadership-governance"
+            },
+            {
+              "title": "Messaging Systems",
+              "path": "/doc/docs/cross-cutting/messaging-systems"
+            },
+            {
+              "title": "Networking Fundamentals",
+              "path": "/doc/docs/cross-cutting/networking-fundamentals"
+            },
+            {
+              "title": "Performance Capacity Planning",
+              "path": "/doc/docs/cross-cutting/performance-capacity-planning"
+            },
+            {
+              "title": "Security",
+              "path": "/doc/docs/cross-cutting/security"
+            }
+          ]
+        },
+        {
+          "title": "Getting Started",
+          "path": "/doc/docs/getting-started",
+          "children": [
+            {
+              "title": "How To Use This Guide",
+              "path": "/doc/docs/getting-started/how-to-use-this-guide"
+            },
+            {
+              "title": "Prerequisites",
+              "path": "/doc/docs/getting-started/prerequisites"
+            },
+            {
+              "title": "Study Methodology",
+              "path": "/doc/docs/getting-started/study-methodology"
+            }
+          ]
+        },
+        {
+          "title": "Reference",
+          "path": "/doc/docs/reference/decision-frameworks",
+          "children": [
+            {
+              "title": "Decision Frameworks",
+              "path": "/doc/docs/reference/decision-frameworks"
+            },
+            {
+              "title": "Glossary",
+              "path": "/doc/docs/reference/glossary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "items": [
+        {
+          "title": "Case Studies Index",
+          "path": "/doc/case-studies"
+        },
+        {
+          "title": "Templates",
+          "path": "/doc/templates/case-study-template"
+        }
+      ]
+    }
+  ]
+}
