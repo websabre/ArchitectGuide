@@ -2,9 +2,8 @@
   "name": "architect-guide",
   "private": true,
   "dependencies": {
-    "@vercel/kv": "^3.0.0"
-  },
-  "devDependencies": {
+    "@vercel/edge-config": "^1.4.3",
+    "@vercel/kv": "^3.0.0",
     "@vercel/node": "^5.0.0"
   }
 }
