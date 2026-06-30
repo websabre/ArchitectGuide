@@ -8,3 +8,4 @@ site/.vercel/
 .env.local
 .env*.local
 .env*
+.vercel

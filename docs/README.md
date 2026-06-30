@@ -34,6 +34,13 @@ Topics that span multiple weeks — see [cross-cutting/README.md](cross-cutting/
 | [Architecture Documentation](cross-cutting/architecture-documentation/README.md) | C4, ADRs |
 | [Leadership & Governance](cross-cutting/leadership-governance/README.md) | Stakeholders, governance |
 
+## Deployment & Operations
+
+| Document | Purpose |
+|----------|---------|
+| [vercel-kv-setup.md](vercel-kv-setup.md) | Connect Upstash KV via Vercel CLI/API, redeploy, troubleshooting |
+| [admin-analytics.md](admin-analytics.md) | `/admin` dashboard setup, tracked fields, privacy |
+
 ## Program Navigation
 
 | Resource | Link |

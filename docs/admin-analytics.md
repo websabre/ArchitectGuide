@@ -2,11 +2,34 @@
 
 Password-protected dashboard at **`/admin`** on your deployed site.
 
-## 1. Vercel KV (storage)
+**Full Vercel KV / Upstash setup guide (CLI, API, troubleshooting):** [vercel-kv-setup.md](vercel-kv-setup.md)
 
-1. [Vercel Dashboard](https://vercel.com) → your project → **Storage**
-2. **Create Database** → **KV** → connect to `architectguide`
-3. Env vars `KV_REST_API_URL` and `KV_REST_API_TOKEN` are added automatically
+## 1. Storage (Upstash for Redis / KV)
+
+Vercel’s legacy “KV” UI is replaced by the **Upstash for Redis** marketplace integration. Our code uses `@vercel/kv`, which reads `KV_REST_API_URL` and `KV_REST_API_TOKEN`.
+
+### Option A — CLI (recommended)
+
+```bash
+vercel link --yes --project architectguide
+
+# One-time: accept marketplace terms in browser if prompted
+open "https://vercel.com/websabres-projects/~/integrations/accept-terms/upstash?source=cli"
+
+vercel integration add upstash/upstash-kv \
+  -n architectguide-kv \
+  -e production -e preview
+
+vercel --prod
+```
+
+### Option B — Dashboard
+
+1. [Vercel Dashboard](https://vercel.com) → **architectguide** → **Storage** or **Integrations**
+2. Add **Upstash for Redis** → connect to the project
+3. Redeploy
+
+Env vars `KV_REST_API_URL` and `KV_REST_API_TOKEN` are added automatically.
 
 ## 2. Admin password
 
@@ -16,11 +39,13 @@ Password-protected dashboard at **`/admin`** on your deployed site.
 |------|--------|
 | `ADMIN_PASSWORD` | A strong secret (used for login + API auth) |
 
-Redeploy after adding variables.
+Or via CLI: `vercel env add ADMIN_PASSWORD`
+
+Redeploy after adding or changing variables.
 
 ## 3. Access
 
-Open: `https://architectguide.vercel.app/admin`
+Open: [https://architectguide.vercel.app/admin](https://architectguide.vercel.app/admin)
 
 Sign in with `ADMIN_PASSWORD`.
 
@@ -44,7 +69,13 @@ Last **10,000** events kept in KV.
 npx vercel dev
 ```
 
-Set `.env.local` with `ADMIN_PASSWORD` and KV vars (or pull from Vercel: `vercel env pull`).
+Set `.env.local` with `ADMIN_PASSWORD` and KV vars, or pull from Vercel:
+
+```bash
+vercel env pull .env.local
+```
+
+See `.env.example` at repo root.
 
 ## Privacy
 

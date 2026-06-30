@@ -50,6 +50,8 @@ vercel --prod
 
 `vercel.json` at repo root runs `cd site && npm run build` and publishes `site/dist/`.
 
+**Admin analytics + KV storage:** see [docs/vercel-kv-setup.md](../docs/vercel-kv-setup.md) and [docs/admin-analytics.md](../docs/admin-analytics.md).
+
 ### Netlify / Azure Static Web Apps
 
 ```yaml
@@ -69,7 +71,7 @@ Re-run automatically via `predev` and `prebuild` npm hooks.
 ## Tech Stack
 
 - **Vite** — fast builds, easy static export
-- **React 18** + **React Router** (HashRouter for zero-config deploy)
+- **React 18** + **React Router** (BrowserRouter; Vercel SPA rewrites in root `vercel.json`)
 - **Tailwind CSS** + **@tailwindcss/typography** — reading-optimized prose
 - **DM Sans** (UI) + **Source Serif 4** (body) + **JetBrains Mono** (code)
 - **react-markdown** + **remark-gfm** — tables, GFM support
