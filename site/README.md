@@ -24,11 +24,19 @@ Output: `site/dist/` — deploy anywhere static files are hosted.
 
 ## Deploy
 
-### GitHub Pages
+### GitHub Pages (GitHub Actions)
 
-1. Build: `cd site && npm run build`
-2. Deploy `site/dist/` to `gh-pages` branch or use GitHub Actions
-3. Site uses **HashRouter** — works without server rewrite rules
+**One-time repo setup** (required — fixes `Failed to create deployment (status: 404)`):
+
+1. Open **Settings → Pages** on your GitHub repo
+2. Under **Build and deployment → Source**, select **GitHub Actions** (not “Deploy from a branch”)
+3. Save, then re-run the **Deploy Site** workflow (Actions tab → Deploy Site → Re-run all jobs)
+
+The workflow (`.github/workflows/deploy-site.yml`) builds `site/dist` on push to `main` and deploys via OIDC.
+
+Live URL after first successful deploy: `https://<user>.github.io/<repo>/`
+
+Site uses **HashRouter** — no server rewrite rules needed.
 
 ### Netlify / Vercel / Azure Static Web Apps
 
