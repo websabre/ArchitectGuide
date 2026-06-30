@@ -1,0 +1,36 @@
+# Progress tracking (personal — not committed by default)
+progress/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Lab artifacts
+**/bin/
+**/obj/
+**/perf-lab/
+**/.terraform/
+*.tfstate*
+
+# Personal notes
+notes/
+journal/
+my-tracker.md
+
+# Cloud credentials
+*.pem
+.env
+.env.*
+credentials.json
+secrets.*
+
+# Build outputs
+*.dll
+*.exe
+*.pdb

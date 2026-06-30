@@ -1,0 +1,10 @@
+# Week 17 Exercises
+
+1. Review theory and redraw diagrams from memory
+2. Complete lab
+3. Practice 20 interview questions aloud
+4. Write one ADR from this week's topic
+
+---
+
+[← Back to Week 17](../README.md)

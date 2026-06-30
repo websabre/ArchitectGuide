@@ -1,0 +1,75 @@
+site_name: Solution Architect Guide
+site_description: 12-month program — .NET, cloud, microservices, system design, interview prep
+repo_url: https://github.com/your-org/ArchitectGuide
+edit_uri: edit/main/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: README.md
+  - Syllabus: SYLLABUS.md
+  - Getting Started:
+      - How to Use: docs/getting-started/how-to-use-this-guide.md
+      - Prerequisites: docs/getting-started/prerequisites.md
+  - Program:
+      - Phase 1 — .NET: program/phase-01-month-01/README.md
+      - Phase 2 — Data: program/phase-02-month-02/README.md
+      - Phase 3 — Azure Core: program/phase-03-month-03/README.md
+      - Phase 4 — Azure Prod: program/phase-04-month-04/README.md
+      - Phase 5 — AWS: program/phase-05-month-05/README.md
+      - Phase 6 — Microservices: program/phase-06-month-06/README.md
+      - Phase 7 — Platform: program/phase-07-month-07/README.md
+      - Phase 8 — DevOps: program/phase-08-month-08/README.md
+      - Phase 9 — System Design: program/phase-09-month-09/README.md
+      - Phase 10 — AI: program/phase-10-month-10/README.md
+      - Phase 11 — Enterprise: program/phase-11-month-11/README.md
+      - Phase 12 — Interview: program/phase-12-month-12/README.md
+  - Weeks: weeks/README.md
+  - Interview Prep:
+      - Hub: interview-prep/README.md
+      - Month 1 Top 50: interview-prep/month-01-top-50-index.md
+      - Azure Top 50: interview-prep/azure-top-50-index.md
+      - AWS Top 50: interview-prep/aws-top-50-index.md
+      - DevOps Top 50: interview-prep/devops-top-50-index.md
+      - Microservices Top 50: interview-prep/microservices-top-50-index.md
+      - System Design Top 50: interview-prep/system-design-top-50-index.md
+      - Mock Interviews: interview-prep/mock-interviews/README.md
+  - Cross-Cutting:
+      - Security: docs/cross-cutting/security/README.md
+      - Networking: docs/cross-cutting/networking-fundamentals/README.md
+      - FinOps: docs/cross-cutting/finops-cost-optimization/README.md
+  - Study Tools:
+      - Progress Tracker: templates/progress-tracker.md
